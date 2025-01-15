@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 Fresh Graduate | 💻 Passionate Web Developer <br>🌱 **Exploring the Tech World:**  <br>
-Started my journey in web development in 2022, and I’ve been hooked ever since! I love building functional and visually appealing websites, solving problems with clean code, and continuously learning new tools and technologies.  <br> 💼 **Open to Opportunities:**  <br>
+🎓 Fresh Graduate | 💻 Passionate Web Developer <br><br>🌱 **Exploring the Tech World:**  
+Started my journey in web development in 2022, and I’ve been hooked ever since! I love building functional and visually appealing websites, solving problems with clean code, and continuously learning new tools and technologies.  <br><br> 💼 **Open to Opportunities:**  
 Currently seeking **full-time opportunities** where I can grow as a **Fullstack Developer** and contribute to impactful projects. Let’s connect and create something amazing together!  
 
 
